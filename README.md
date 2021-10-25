@@ -1,7 +1,6 @@
 ### Hi there, I am an Architect and a Developer 👋
 
 
-
 - 🔭 I’m currently working on a new project which will be in my repository soon
 - 🌱 I’m currently learning Python and JavaScript
 - 👯 I’m looking to collaborate on Youtube
