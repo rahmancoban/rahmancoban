@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with any new tech:)
 - 💬 Ask me about SQL
-- 📫 How to reach me: instagram or telegram
+- 📫 How to reach me: [instagram](https://www.instagram.com/rahman.coban/)
 - 😄 Pronouns: Let's say ..hmm
 - ⚡ Fun fact: I have eleven siblings:)
 
