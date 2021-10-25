@@ -10,7 +10,7 @@
 - 😄 Pronouns: Let's say ..hmm
 - ⚡ Fun fact: I have eleven siblings:)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">Long way to go. Work harder boy!! </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
