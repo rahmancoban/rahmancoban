@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a new project which will be in repository soon
+- 🔭 I’m currently working on a new project which will be in my repository soon
 - 🌱 I’m currently learning Python and JavaScript
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with any new tech:)
