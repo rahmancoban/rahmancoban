@@ -2,12 +2,12 @@
 
 
 - 🔭 I’m currently working on a new project which will be in my repository soon
-- 🌱 I’m currently learning Python and JavaScript
-- 👯 I’m looking to collaborate on Youtube
+- 🌱 I’m currently learning ReactJS and Flask
+- 👯 I’m looking to collaborate on any platform
 - 🤔 I’m looking for help with any new tech:)
 - 💬 Ask me about SQL
 - 📫 How to reach me: [instagram](https://www.instagram.com/rahman.coban/)
-- 😄 Pronouns: Let's say ..hmm
+- 😄 Pronouns: Mr.
 - ⚡ Fun fact: I have eleven siblings:)
 
 <h4 align="left">Long way to go. Work harder boy!! </h4>
