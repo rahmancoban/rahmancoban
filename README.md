@@ -33,7 +33,7 @@
 
 <img align="left" width="6%" alt="Git"   src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img align="left" width="16%" alt="SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-thebadge&logo=microsoft%20sql%20server&logoColor=white"/>
+<img align="left" width="15%" alt="SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-thebadge&logo=microsoft%20sql%20server&logoColor=white"/>
 
 <img align="left" width="7%" alt="MySQL"   src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
