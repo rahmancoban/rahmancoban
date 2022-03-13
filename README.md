@@ -14,7 +14,7 @@
   
 <a href="https://stackoverflow.com/users/15547347/abdurrahman-%c3%a7oban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15547347/abdurrahman-%c3%a7oban" height="30" width="40" /></a>
 
-<a href="https://www.hackerearth.com/rahmancoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rahmancoban" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/rahmancoban?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/rahmancoban?hr_r=1" height="30" width="40" /></a>
   
 </p>
 
