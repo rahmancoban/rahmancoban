@@ -1,4 +1,4 @@
-### Hi there👋 I am a Developer and aa Architect
+### Hi there👋 I am a Developer and an Architect
 
 
 
