@@ -26,7 +26,6 @@
 
 <img align="left" width="8%" alt="React"   src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<img align="left" width="9%" alt="Django"   src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 
 <img align="left" width="6%" alt="Git"   src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
