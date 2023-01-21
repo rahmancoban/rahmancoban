@@ -1,9 +1,6 @@
 ### Hi there👋 I am a Developer and an Architect
 
 
-
-- 🌱 I’m currently learning ReactJS and Django
-- 👯 I’m looking to collaborate on any platform
 - 📫 How to reach me: [Email](http://abnncbnn@gmail.com/)
 
 <h4 align="left">Long way to go. Work harder!!! </h4>
