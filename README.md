@@ -7,7 +7,7 @@
 
 <h3 align="left">Professional Accounts:</h3>
 <p align="left">
-<a href="https://www.rahmancoban.com" target="_blank"><img align="left" src="https://imageupload.io/mThQEvgytrsjv9D" alt="Me" height="30" width="40" /></a>
+<a href="https://www.rahmancoban.com" target="_blank"><img align="left" src="" alt="Me" height="30" width="40" /></a>
 
 <a href="https://www.linkedin.com/in/rahmancoban/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahmancoban/" height="30" width="40" /></a>
   
@@ -34,6 +34,8 @@
 <img align="left" width="15%" alt="SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-thebadge&logo=microsoft%20sql%20server&logoColor=white"/>
 
 <img  width="7%" alt="MySQL"   src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
 
 
 
