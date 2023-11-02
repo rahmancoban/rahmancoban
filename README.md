@@ -7,7 +7,7 @@
 
 <h3 align="left">Professional Accounts:</h3>
 <p align="left">
-<a href="https://www.rahmancoban.com" target="_blank"><img align="left" src="" alt="Me" height="30" width="40" /></a>
+<a href="https://www.rahmancoban.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Me" height="30" width="40" /></a>
 
 <a href="https://www.linkedin.com/in/rahmancoban/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahmancoban/" height="30" width="40" /></a>
   
@@ -24,7 +24,7 @@
 
 <img align="left" width="12%" alt="JavaScript"   src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<img align="left" width="7%" alt="WordPress"   src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white padding=10px"/>
+<img align="left" width="7%" alt="WordPress"   src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 
 <img align="left" width="8%" alt="React"   src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
